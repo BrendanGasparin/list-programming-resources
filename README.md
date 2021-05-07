@@ -1,5 +1,5 @@
-# Programming YouTubers
-A list of programming related YouTube channels.
+# Programming & Development YouTubers
+A list of programming and development related YouTube channels.
 
 ## List
 [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)  
