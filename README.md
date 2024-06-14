@@ -23,6 +23,7 @@ A list of programming and development related YouTube channels.
 [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)  
 [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)  
 [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)  
+[Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ): As well as covering programming, Eli the Computer Guy has content on programming, Linux, networking, cybersecurity, and more.  
 [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)  
 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)  
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)  
