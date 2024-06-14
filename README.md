@@ -28,7 +28,7 @@ A list of programming and development related resources.
 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)  
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)  
 [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)  
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  
+[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): freeCodeCamp has fun and engaging tutorials on web development and multiple languages, and even has an IDE in the web browser so you can code and read lessons in the same window.  
 [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)  
 [IAmTimCorey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)  
 [Ihatetomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg)  
