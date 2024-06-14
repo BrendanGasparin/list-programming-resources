@@ -1,7 +1,7 @@
-# Programming & Development YouTubers
-A list of programming and development related YouTube channels.
+# Programming & Development Resources  
+A list of programming and development related resources.  
 
-## List
+## YouTube Channels
 [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)  
 [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)  
 [Alex Damiani](https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A)  
