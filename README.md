@@ -1,8 +1,10 @@
 # Programming & Development Resources  
 A list of programming and development related resources.  
 
-## Practice Sites
-[Hackerrank](https://www.hackerrank.com/): HackerRank is a coding practice site, but it also helps to connect developers with organizations that might wish to employ them.  
+## Practice Sites  
+[Codewars](https://www.codewars.com/): Codewars has programming exercises called kata, and a progression system consisting of ranks and honor that make for a fun, gamified way to improve your skills.  
+[HackerRank](https://www.hackerrank.com/): HackerRank is a coding practice site, but it also helps to connect developers with organizations that might wish to employ them.  
+[LeetCode](https://leetcode.com/): LeetCode is the world's leading online platform for learning programming. They have a focus on expanding your skills and preparing you for technical interviews.  
 
 ## YouTube Channels
 [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)  
