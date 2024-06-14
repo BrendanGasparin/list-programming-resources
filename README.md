@@ -2,6 +2,7 @@
 A list of programming and development related resources.  
 
 ## Practice Sites  
+[Codeforces](https://codeforces.com/): Codeforces is a competitive platform where you complete programming exercises and are ranked alongside other competitors.  
 [Codewars](https://www.codewars.com/): Codewars has programming exercises called kata, and a progression system consisting of ranks and honor that make for a fun, gamified way to improve your skills.  
 [HackerRank](https://www.hackerrank.com/): HackerRank is a coding practice site, but it also helps to connect developers with organizations that might wish to employ them.  
 [LeetCode](https://leetcode.com/): LeetCode is the world's leading online platform for learning programming. They have a focus on expanding your skills and preparing you for technical interviews.  
