@@ -40,6 +40,7 @@ A list of programming and development related resources.
 [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)  
 [Neso Academy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A)  
 [Net Ninja, The](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)  
+[NetworkChuck](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): NetworkChuck covers a broad range of IT topics, including programming, networking, hardware, cybersecurity, and hacking. He is an entertaining individual who makes learning about IT fun. Remember to make coffee before watching.  
 [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)  
 [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)  
 [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)  
