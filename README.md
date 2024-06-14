@@ -1,6 +1,9 @@
 # Programming & Development Resources  
 A list of programming and development related resources.  
 
+## Practice Sites
+[Hackerrank](https://www.hackerrank.com/): HackerRank is a coding practice site, but it also helps to connect developers with organizations that might wish to employ them.  
+
 ## YouTube Channels
 [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)  
 [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)  
